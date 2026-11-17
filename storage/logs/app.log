@@ -1,0 +1,94 @@
+[01-Nov-2026 14:22:05 Asia/Jakarta] Koneksi database gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[01-Nov-2026 14:23:03 Asia/Jakarta] Koneksi database gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[02-Nov-2026 14:57:20 Asia/Jakarta] Koneksi database gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[02-Nov-2026 14:57:39 Asia/Jakarta] Koneksi database gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[02-Nov-2026 14:57:53 Asia/Jakarta] Koneksi database gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 285
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 289
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 318
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 331
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 421
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 435
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 444
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 1184
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\index.php on line 1192
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\index.php on line 1223
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\includes\footer.php on line 7
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $company in C:\laragon\www\Project Moza Group\includes\footer.php on line 12
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in C:\laragon\www\Project Moza Group\includes\footer.php on line 12
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\includes\footer.php on line 63
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\includes\footer.php on line 113
+[02-Nov-2026 15:13:50 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\includes\footer.php on line 121
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 285
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 289
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 318
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 331
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 421
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 435
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 444
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 1184
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\index.php on line 1192
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\index.php on line 1223
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\includes\footer.php on line 7
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $company in C:\laragon\www\Project Moza Group\includes\footer.php on line 12
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in C:\laragon\www\Project Moza Group\includes\footer.php on line 12
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\includes\footer.php on line 63
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\includes\footer.php on line 113
+[02-Nov-2026 15:17:49 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\includes\footer.php on line 121
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 95
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 100
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 155
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 172
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 213
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 239
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 433
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 436
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\tentang.php on line 441
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\tentang.php on line 468
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\includes\footer.php on line 7
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $company in C:\laragon\www\Project Moza Group\includes\footer.php on line 12
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in C:\laragon\www\Project Moza Group\includes\footer.php on line 12
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\includes\footer.php on line 63
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\includes\footer.php on line 113
+[02-Nov-2026 15:17:56 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\includes\footer.php on line 121
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 95
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 100
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 155
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 172
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 213
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 239
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 433
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\tentang.php on line 436
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\tentang.php on line 441
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\tentang.php on line 468
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\includes\footer.php on line 7
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $company in C:\laragon\www\Project Moza Group\includes\footer.php on line 12
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in C:\laragon\www\Project Moza Group\includes\footer.php on line 12
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\includes\footer.php on line 63
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\includes\footer.php on line 113
+[02-Nov-2026 15:18:43 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\includes\footer.php on line 121
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 285
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 289
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 318
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 331
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 421
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 435
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 444
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\index.php on line 1184
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\index.php on line 1192
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\index.php on line 1223
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\includes\footer.php on line 7
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $company in C:\laragon\www\Project Moza Group\includes\footer.php on line 12
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in C:\laragon\www\Project Moza Group\includes\footer.php on line 12
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\includes\footer.php on line 63
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $companyName in C:\laragon\www\Project Moza Group\includes\footer.php on line 113
+[02-Nov-2026 15:18:45 Asia/Jakarta] PHP Warning:  Undefined variable $contactWhatsapp in C:\laragon\www\Project Moza Group\includes\footer.php on line 121
+[09-Nov-2026 17:26:39 Asia/Jakarta] Koneksi database gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[09-Nov-2026 17:26:53 Asia/Jakarta] Koneksi database gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[09-Nov-2026 17:27:07 Asia/Jakarta] Koneksi database gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[10-Nov-2026 17:15:09 Asia/Jakarta] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\laragon\www\Project Moza Group\includes\navbar.php on line 4
+[10-Nov-2026 17:15:15 Asia/Jakarta] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\laragon\www\Project Moza Group\includes\navbar.php on line 4
+[10-Nov-2026 17:15:19 Asia/Jakarta] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\laragon\www\Project Moza Group\includes\navbar.php on line 4
+[10-Nov-2026 17:15:37 Asia/Jakarta] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\laragon\www\Project Moza Group\includes\navbar.php on line 4
+[10-Nov-2026 17:15:39 Asia/Jakarta] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\laragon\www\Project Moza Group\includes\navbar.php on line 4
+[10-Nov-2026 17:15:49 Asia/Jakarta] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\laragon\www\Project Moza Group\includes\navbar.php on line 4
